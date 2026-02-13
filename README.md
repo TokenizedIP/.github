@@ -1,4 +1,4 @@
-#TIPL public repositories
+# TIPL public repositories
 Our goal is to help our member projects build value, and maximize contributions from users and AI. We provide the Tokenized IP License, the TIPL.fun launchpad, treasury governance, and related tools. This gives our member projects:
 
 * **IP value:** Intellectual property rights tied to crypto tokens
